@@ -1,0 +1,352 @@
+[14-Apr-2025 20:14:45 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 20:14:45 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 20:14:56 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 20:14:56 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 20:14:57 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 20:14:57 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 20:20:53 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 20:20:53 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 20:32:02 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 20:32:02 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 20:38:28 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 20:38:28 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 20:38:28 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 20:38:28 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 20:38:29 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 20:38:29 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 20:50:24 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 20:50:24 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 21:11:17 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 21:11:17 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 21:20:13 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 21:20:13 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 21:20:14 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 21:20:14 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 21:20:15 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 21:20:15 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 21:23:59 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 21:23:59 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 21:24:03 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 21:24:03 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 21:24:17 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 21:24:17 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 21:24:18 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 21:24:18 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 21:24:18 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 21:24:18 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 21:24:22 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 21:24:22 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 21:25:04 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 21:25:04 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 21:58:31 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 21:58:31 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 21:58:32 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 21:58:32 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 21:58:33 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 21:58:33 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 22:06:52 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ynsoofzf_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 22:06:52 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 22:41:33 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'qrlixuhs_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 22:41:33 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 23:06:14 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'qrlixuhs_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 23:06:14 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 23:34:58 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'qrlixuhs_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 23:34:58 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 23:36:41 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'qrlixuhs_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 23:36:41 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 23:36:43 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'qrlixuhs_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 23:36:43 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 23:41:47 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'qrlixuhs_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 23:41:47 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 23:41:49 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'qrlixuhs_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 23:41:49 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 23:41:57 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'qrlixuhs_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 23:41:57 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 23:45:24 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'qrlixuhs_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 23:45:24 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php:16
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(16): mysqli->query()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(137): SystemSettings->load_system_info()
+#2 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#3 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#4 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php on line 16
+[14-Apr-2025 23:46:18 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qrlixuhs_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php:18
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php(18): mysqli->__construct()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(8): DBConnection->__construct()
+#2 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(136): SystemSettings->__construct()
+#3 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#4 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#5 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 23:46:53 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qrlixuhs_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php:18
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php(18): mysqli->__construct()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(8): DBConnection->__construct()
+#2 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(136): SystemSettings->__construct()
+#3 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#4 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#5 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[14-Apr-2025 23:47:52 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qrlixuhs_system'@'localhost' (using password: YES) in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php:18
+Stack trace:
+#0 /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php(18): mysqli->__construct()
+#1 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(8): DBConnection->__construct()
+#2 /home/qrlixuhs/public_html/Qrlimited/classes/SystemSettings.php(136): SystemSettings->__construct()
+#3 /home/qrlixuhs/public_html/Qrlimited/config.php(9): require_once('/home/qrlixuhs/...')
+#4 /home/qrlixuhs/public_html/index.php(1): require_once('/home/qrlixuhs/...')
+#5 {main}
+  thrown in /home/qrlixuhs/public_html/Qrlimited/classes/DBConnection.php on line 18
+[15-Apr-2025 02:38:58 Asia/Manila] PHP Notice:  Undefined index: botton_link in /home/qrlixuhs/public_html/index.php on line 146
+[15-Apr-2025 02:39:15 Asia/Manila] PHP Notice:  Undefined index: botton_link in /home/qrlixuhs/public_html/index.php on line 146
+[15-Apr-2025 02:39:28 Asia/Manila] PHP Notice:  Undefined index: botton_link in /home/qrlixuhs/public_html/index.php on line 146
+[15-Apr-2025 02:39:48 Asia/Manila] PHP Notice:  Undefined index: botton_link in /home/qrlixuhs/public_html/index.php on line 146
+[15-Apr-2025 02:40:04 Asia/Manila] PHP Notice:  Undefined index: botton_link in /home/qrlixuhs/public_html/index.php on line 146
+[15-Apr-2025 02:40:04 Asia/Manila] PHP Notice:  Undefined index: botton_link in /home/qrlixuhs/public_html/index.php on line 146
+[15-Apr-2025 02:40:05 Asia/Manila] PHP Notice:  Undefined index: botton_link in /home/qrlixuhs/public_html/index.php on line 146
+[15-Apr-2025 02:40:06 Asia/Manila] PHP Notice:  Undefined index: botton_link in /home/qrlixuhs/public_html/index.php on line 146
+[15-Apr-2025 02:41:08 Asia/Manila] PHP Notice:  Undefined index: botton_link in /home/qrlixuhs/public_html/index.php on line 146
+[15-Apr-2025 02:43:56 Asia/Manila] PHP Notice:  Undefined variable: mission in /home/qrlixuhs/public_html/index.php on line 103
+[15-Apr-2025 02:43:56 Asia/Manila] PHP Notice:  Undefined variable: mission in /home/qrlixuhs/public_html/index.php on line 103
+[15-Apr-2025 02:44:03 Asia/Manila] PHP Notice:  Undefined variable: mission in /home/qrlixuhs/public_html/index.php on line 103
+[15-Apr-2025 02:44:03 Asia/Manila] PHP Notice:  Undefined variable: mission in /home/qrlixuhs/public_html/index.php on line 103
+[15-Apr-2025 02:44:09 Asia/Manila] PHP Notice:  Undefined variable: mission in /home/qrlixuhs/public_html/index.php on line 103
+[15-Apr-2025 02:44:09 Asia/Manila] PHP Notice:  Undefined variable: mission in /home/qrlixuhs/public_html/index.php on line 103
+[15-Apr-2025 02:45:17 Asia/Manila] PHP Notice:  Undefined variable: mission in /home/qrlixuhs/public_html/index.php on line 103
+[15-Apr-2025 02:45:17 Asia/Manila] PHP Notice:  Undefined variable: mission in /home/qrlixuhs/public_html/index.php on line 103
+[15-Apr-2025 02:45:24 Asia/Manila] PHP Notice:  Undefined variable: mission in /home/qrlixuhs/public_html/index.php on line 103
+[15-Apr-2025 02:45:24 Asia/Manila] PHP Notice:  Undefined variable: mission in /home/qrlixuhs/public_html/index.php on line 103
+[15-Apr-2025 02:45:40 Asia/Manila] PHP Notice:  Undefined variable: mission in /home/qrlixuhs/public_html/index.php on line 103
+[15-Apr-2025 02:45:40 Asia/Manila] PHP Notice:  Undefined variable: mission in /home/qrlixuhs/public_html/index.php on line 103
+[15-Apr-2025 02:45:52 Asia/Manila] PHP Notice:  Undefined variable: mission in /home/qrlixuhs/public_html/index.php on line 103
+[15-Apr-2025 02:45:52 Asia/Manila] PHP Notice:  Undefined variable: mission in /home/qrlixuhs/public_html/index.php on line 103
+[15-Apr-2025 02:45:58 Asia/Manila] PHP Notice:  Undefined variable: mission in /home/qrlixuhs/public_html/index.php on line 103
+[15-Apr-2025 02:45:58 Asia/Manila] PHP Notice:  Undefined variable: mission in /home/qrlixuhs/public_html/index.php on line 103
+[18-Apr-2025 18:53:24 UTC] PHP Notice:  Undefined variable: contactInfo in /home/qrlixuhs/public_html/footer.php on line 15
+[18-Apr-2025 18:53:24 UTC] PHP Notice:  Undefined variable: contactInfo in /home/qrlixuhs/public_html/footer.php on line 16
+[18-Apr-2025 18:53:24 UTC] PHP Notice:  Undefined variable: contactInfo in /home/qrlixuhs/public_html/footer.php on line 17
